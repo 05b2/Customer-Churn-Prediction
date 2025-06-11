@@ -31,9 +31,9 @@ Customer churn impacts long-term revenue. This project identifies potential chur
 
 ## Visuals
 - Confusion Matrix
-  ![OutputScreenshot](images/Screenshot 2025-06-11 204253.png)
+  ![OutputScreenshot](images/class.png)
 - Feature Importance Chart
-![OutputScreenshot](images/Screenshot 2025-06-11 204308.png)
+![OutputScreenshot](images/imp.png)
 
 ## How to Run
 1. Clone the repo or open in Google Colab
