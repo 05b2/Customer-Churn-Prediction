@@ -18,7 +18,7 @@ Customer churn impacts long-term revenue. This project identifies potential chur
 - Source: [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - 7,043 rows and 21 features including customer demographics and service usage
 
-## 🧪 Key Steps
+## Key Steps
 1. **Data Cleaning:** Removed null values and converted categorical features using `LabelEncoder`
 2. **EDA:** Visualized churn trends by tenure, contract type, and monthly charges
 3. **Modeling:** Built and trained a `RandomForestClassifier`
@@ -31,8 +31,9 @@ Customer churn impacts long-term revenue. This project identifies potential chur
 
 ## Visuals
 - Confusion Matrix
-- 
+  ![OutputScreenshot](images/output.png)
 - Feature Importance Chart
+![OutputScreenshot](images/output.png)
 
 ## How to Run
 1. Clone the repo or open in Google Colab
@@ -46,4 +47,6 @@ Customer churn impacts long-term revenue. This project identifies potential chur
 
 ---
 
-  **Author:** [Bertil Jovita J P]  
+Created by **Bertil Jovita JP**
+Contact: [bittuu2005@gmail.com]
+GitHub: [https://github.com/05b2]
